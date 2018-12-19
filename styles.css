@@ -67,3 +67,66 @@ body {
 	background-image: url("PiscesClock.png");
 	text-align: center;
 }
+
+#Aquarius{
+	width: 471px; 
+	height: 357px;
+	background-image: url("Aquarius.jpg");
+	text-align: center;
+}
+
+#Capricorn{
+	width: 500px; 
+	height: 363px;
+	background-image: url("Capricorn.jpg");
+	text-align: center;
+}
+
+#Sagittarius{
+	width: 300px; 
+	height: 293px;
+	background-image: url("Sagittarius.jpg");
+	text-align: center;
+}
+
+#LibraScorpio{
+	width: 440px; 
+	height: 248px;
+	background-image: url("LibraScorpio.png");
+	text-align: center;
+}
+
+#Virgo{
+	width: 330px; 
+	height: 419px;
+	background-image: url("Virgo.png");
+	text-align: center;
+}
+
+#Leo{
+	width: 234px; 
+	height: 269px;
+	background-image: url("Leo.jpg");
+	text-align: center;
+}
+
+#Cancer{
+	width: 200px; 
+	height: 200px;
+	background-image: url("Cancer.png");
+	text-align: center;
+}
+
+#Gemini{
+	width: 256px; 
+	height: 256px;
+	background-image: url("Gemini.png");
+	text-align: center;
+}
+
+#Taurus{
+	width: 289px; 
+	height: 239px;
+	background-image: url("Taurus.png");
+	text-align: center;
+}
