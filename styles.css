@@ -55,3 +55,15 @@ body {
 	background-image: url("MoonOrSun.png");
 	text-align: center;
 }
+#JungAstroClock{
+	width: 510px; 
+	height: 510px;
+	background-image: url("JungAstroClock.png");
+	text-align: center;
+}
+#PiscesClock{
+	width: 229px; 
+	height: 222px;
+	background-image: url("PiscesClock.png");
+	text-align: center;
+}
