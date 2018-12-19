@@ -1,4 +1,15 @@
 ul{
-	background-color: #DCDCDC;
     padding-left: 10px;
+}
+inner{
+	    position: absolute;
+    margin-top: 90px;
+    text-align: center;
+    width: 300px;
+}
+text {
+    padding: 5px 5px;
+    color: #fff;
+    background-color: grey;
+    display: inline-block;
 }
