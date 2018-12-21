@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css"/>
+	<title>Astrology, Psychology, Philosophy and Bitcoin</title>
+</head>
+<body>
+
+<div class="header">
+	<h2>Astrology, Psychology, Philosophy and Bitcoin</h2>
+	<p>Millennials are Aquarius</p>
+</div>
+
+<div id="navbar">
+	<a class="active" href="index.html">Home</a>
+	<a href="Gematria.html">English Gematria</a>
+	<a href="Astrology.html">Astrology</a>
+	<a href="Psychology.html">Psychology</a>
+	<a href="Philosophy.html">Philosophy</a>
+	<a href="Bitcoin.html">Bitcoin</a>
+</div>
+
+<div class="content">
+	<h3>Bitcoin - Sound Money</h3>
+	<p><i>"The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust"</i> - Satoshi Nakamoto, Pseudonym for Author of the Bitcoin White Paper</p>
+	<p>To be updated</p>
+</div>
+<script>
+	window.onscroll = function() {myFunction()};
+
+	var navbar = document.getElementById("navbar");
+	var sticky = navbar.offsetTop;
+
+	function myFunction() {
+	  if (window.pageYOffset >= sticky) {
+		navbar.classList.add("sticky")
+	  } else {
+		navbar.classList.remove("sticky");
+	  }
+	}
+</script>
+
+</body>
+</html>
